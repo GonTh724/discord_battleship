@@ -2,7 +2,7 @@
 
 Dieses Projekt bringt das klassische Strategiespiel **Schiffe versenken** (Battleship) direkt auf Ihren Discord-Server. Die gesamte Spiellogik wird über eine ressourcenschonende Engine in Node-RED gesteuert, die sowohl Einzelspieler-Partien gegen eine künstliche Intelligenz (KI) als auch abhörsichere PvP-Duelle zwischen zwei Server-Mitgliedern ermöglicht.
 
-🔗 **Projekt-Link auf GitHub:** [https://github.com/DEIN_BENUTZERNAME/DEIN_REPOSITORY](https://github.com/GonTh724/discord_battleship)
+🔗 **Projekt-Link auf GitHub:** [https://github.com/GonTh724/discord_battleship](https://github.com/GonTh724/discord_battleship)
 
 ---
 
